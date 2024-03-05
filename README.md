@@ -1,1 +1,2 @@
 # LordOfTheObjects
+- The Lord of the Objects project was a team project that demonstrated proficiency in Java Object Oriented Program and was created and presented in a day sprint. This project is a text-based adventure game that simulates a quest in the Witcher franchise, originally authored by Andrzej Sapkowski. The user can gain new weapons, armor, and defeat the bosses while finishing the quests given.
